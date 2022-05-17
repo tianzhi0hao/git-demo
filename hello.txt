@@ -15,3 +15,4 @@ hello sharing! hello git!
 hello sharing! hello git!
 push  sharing! hello git!   hot-fix -fix
 
+test for gitee
