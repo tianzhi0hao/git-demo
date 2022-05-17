@@ -13,4 +13,5 @@ hello sharing! hello git!
 hello sharing! hello git!
 hello sharing! hello git!
 hello sharing! hello git!
-hello sharing! hello git!   hot-fix
+hello sharing! hello git!   hot-fix -fix
+
